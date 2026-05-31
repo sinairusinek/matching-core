@@ -22,7 +22,7 @@ from .cascade import (
     route,
 )
 
-__version__ = "0.2.0"
+__version__ = "0.3.0"
 
 __all__ = [
     "normalize_name", "is_hebrew", "detect_script", "script_runs",

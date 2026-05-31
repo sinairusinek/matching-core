@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "matching-core"
-version = "0.2.0"
+version = "0.3.0"
 description = "Shared primitives for multilingual entity matching (normalization, similarity, identifiers, cascade skeleton)."
 readme = "README.md"
 requires-python = ">=3.9"
